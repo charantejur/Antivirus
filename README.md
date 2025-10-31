@@ -51,14 +51,9 @@ Charan/
 ## Configuration
 If `antivirus.py` exposes configurable options (e.g., patterns, thresholds, or logging), set them within the script or via environment variables as indicated by in-file docs.
 
-## Troubleshooting
-- "Python not found": Ensure Python is installed and added to PATH. Re-open PowerShell after installation.
-- Permission issues moving files: Run PowerShell as Administrator or ensure you have write access to the directories.
-
-## Contributing
-Pull requests are welcome. Please keep the code readable and include brief comments for non-obvious logic.
 
 ## License
 Provided as-is with no warranty. You may adapt and use at your own risk.
+
 
 
